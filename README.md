@@ -47,6 +47,14 @@ Following the completion of our primary research into user requirements, valuabl
 
 
 
-Ben charlton up number: UP2275414 Git:164635027
+Ben Charlton: UP2275414 Git: 164635027
 
-Ben Brown Up2268495 Git: 235307323
+Ben Brown UP2268495 Git: 235307323
+
+Geeth Alsawair: UP2248997 Git: 235309289
+
+Ihor Savenko : UP2241487 Git: 42842614
+
+Sujan Rajesh: UP2270752 Git: 149666846
+
+James Hind: UP2267708 Git: 200824129
