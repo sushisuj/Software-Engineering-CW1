@@ -5,4 +5,8 @@ tkinter is for desktop GUIs only. so for an app that targets mobile (Android/iOS
 3. UI capability and developer experience
 tkinter is basic: fewer widgets, limited styling, dated look on some platforms, no hot reload. Flutter offers a modern UI toolkit, consistent widgets, and hot reload which speeds development.
 4. Performance and binary size (when compiled)
+<<<<<<< HEAD
 Python GUIs typically rely on the Python interpreter and additional third-party libraries, often resulting in large, inconsistent, or bloated packaged applications. In contrast, Flutter using Dart compiles directly to native ARM or x86 machine code, delivering better performance, especially on mobile devices.
+=======
+Python GUIs typically rely on the Python interpreter and additional third-party libraries, often resulting in large, inconsistent, or bloated packaged applications. In contrast, Flutter—using Dart—compiles directly to native ARM or x86 machine code, delivering better performance, especially on mobile devices.
+>>>>>>> 64bb0840fc16f5aedf1b32c866b4c9d0b7f221b5
