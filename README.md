@@ -58,3 +58,5 @@ Ihor Savenko : UP2241487 Git: 42842614
 Sujan Rajesh: UP2270752 Git: 149666846
 
 James Hind: UP2267708 Git: 200824129
+
+Dmitrijs Jefimovs: UP2210435 Git: 116079463
